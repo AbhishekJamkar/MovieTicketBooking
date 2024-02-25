@@ -6,8 +6,8 @@ This web application allows users to browse and book movie tickets online. It of
 This is a README for a movie ticket booking web application built using .NET Core.
 
 ## Team Members
-- *Dhruvin Gamit* (CE039)
-  - Student ID: 21CEUTS109
+- *Abhishek Jamkar*
+  - Student ID: 21CEUTF069
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
