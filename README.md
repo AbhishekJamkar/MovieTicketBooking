@@ -27,7 +27,7 @@ Before getting started, make sure you have the following prerequisites installed
 - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
 
 ## Installation
-1. Clone this repository: `git clone https://github.com/AbhishekJamkar/Online_Movie_Ticket_Booking/repo.git`
+1. Clone this repository: `https://github.com/AbhishekJamkar/MovieTicketBooking.git`
 2. Open the project in your code editor.
 
 
