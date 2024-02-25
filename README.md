@@ -7,8 +7,6 @@ This is a README for a movie ticket booking web application built using .NET Cor
 
 ## Team Members
 - *Abhishek Jamkar*
-  - Student ID: 21CEUTF069
-
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Installation](#installation)
