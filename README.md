@@ -7,6 +7,7 @@ This is a README for a movie ticket booking web application built using .NET Cor
 - *Idea Incubators*
 ## Team Members
 - *Abhishek Jamkar*
+- *Dhruvin Gamit*
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Installation](#installation)
