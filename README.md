@@ -1,7 +1,7 @@
 # Idea Incubators
 
 # Online_Movie_Ticket_Booking_Web_Application
-This web application Using .Net Core allows users to browse and book movie tickets online. It offers a user-friendly interface for selecting movies, showtimes and seats. The application is designed with both users and admin in mind, providing features such as user registration and authentication, and an admin dashboard for managing movie listings and theaters.
+.Net Core This web application Using allows users to browse and book movie tickets online. It offers a user-friendly interface for selecting movies, showtimes and seats. The application is designed with both users and admin in mind, providing features such as user registration and authentication, and an admin dashboard for managing movie listings and theaters.
 
 This is a README for a movie ticket booking web application built using .NET Core.
 ## Team Name: 
